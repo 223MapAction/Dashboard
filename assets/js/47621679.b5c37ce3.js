@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmap_action_dashboard_docs=self.webpackChunkmap_action_dashboard_docs||[]).push([[661],{7067:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/Dashboard/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
