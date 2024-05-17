@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://223MapAction.github.io/Dashboard/blog"/>
     <subtitle>Map Action Dashboard documentation Blog</subtitle>
-    <icon>https://223MapAction.github.io/Dashboard/img/favicon.ico</icon>
+    <icon>https://223MapAction.github.io/Dashboard/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://223MapAction.github.io/Dashboard/blog/welcome</id>
